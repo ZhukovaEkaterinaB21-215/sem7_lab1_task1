@@ -1,0 +1,12 @@
+C:\lab7sem\task1\zlib\adler32.c;C:\lab7sem\task1\zlib\Debug\adler32.obj
+C:\lab7sem\task1\zlib\compress.c;C:\lab7sem\task1\zlib\Debug\compress.obj
+C:\lab7sem\task1\zlib\crc32.c;C:\lab7sem\task1\zlib\Debug\crc32.obj
+C:\lab7sem\task1\zlib\deflate.c;C:\lab7sem\task1\zlib\Debug\deflate.obj
+C:\lab7sem\task1\zlib\gzio.c;C:\lab7sem\task1\zlib\Debug\gzio.obj
+C:\lab7sem\task1\zlib\infback.c;C:\lab7sem\task1\zlib\Debug\infback.obj
+C:\lab7sem\task1\zlib\inffast.c;C:\lab7sem\task1\zlib\Debug\inffast.obj
+C:\lab7sem\task1\zlib\inflate.c;C:\lab7sem\task1\zlib\Debug\inflate.obj
+C:\lab7sem\task1\zlib\inftrees.c;C:\lab7sem\task1\zlib\Debug\inftrees.obj
+C:\lab7sem\task1\zlib\trees.c;C:\lab7sem\task1\zlib\Debug\trees.obj
+C:\lab7sem\task1\zlib\uncompr.c;C:\lab7sem\task1\zlib\Debug\uncompr.obj
+C:\lab7sem\task1\zlib\zutil.c;C:\lab7sem\task1\zlib\Debug\zutil.obj
