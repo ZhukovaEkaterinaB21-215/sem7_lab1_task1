@@ -1,0 +1,7 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  pngtest.cpp
+C:\lab7sem\task1\pngtest\pngtest.cpp(139,100): warning C4018: >: несоответствие типов со знаком и без знака
+  PngProc.cpp
+  Создание кода...
+PngProc.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  pngtest.vcxproj -> C:\lab7sem\task1\Debug\pngtest.exe
